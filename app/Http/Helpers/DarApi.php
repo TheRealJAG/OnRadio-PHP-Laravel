@@ -10,7 +10,7 @@ class DarApi
 {
 
     const API_DEBUG                = false;
-    const API_TOKEN                = '2185266294';
+    const API_TOKEN                = 'YOUR_API_TOKEN';
     const API_URL_ARTIST           = 'http://api.dar.fm/playlist.php?web=1&page_size=5&q=';
     const API_URL_ARTIST_ALL_SONGS = 'http://api.dar.fm/allsongs.php?web=1&page_size=5&artist=';
     const API_URL_ARTIST_REC       = 'http://api.dar.fm/reco2.php?web=1&page_size=5&artist=';
