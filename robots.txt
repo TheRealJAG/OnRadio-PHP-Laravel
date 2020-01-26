@@ -1,0 +1,4 @@
+/var/log/nginx/error.log.1
+/var/log/nginx/error.log
+/var/log/mysql/error.log
+/var/log/mysql/error.log.1.gz
